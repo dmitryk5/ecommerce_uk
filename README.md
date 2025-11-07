@@ -1,5 +1,7 @@
 # UK E-Commerce Sales Analysis
 
+![ECommerce_Logo](Images/ecommerce_logo.png)
+
 ## Table of Contents
 1. [Project Overview]()
 2. [Business Questions]()
