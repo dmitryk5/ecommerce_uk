@@ -24,6 +24,8 @@
 
 This project analyzes a transnational dataset containing all transactions from 01/12/2010 to 09/12/2011 for a UK-based, registered non-store online retailer. The company primarily sells unique all-occasion gifts, and many of its customers are wholesalers.
 
+[Link to Dataset](https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Cloud+Warehouse+Compersion+Chart.csv)
+
 **Objective:**
 
 The goal of this project is to extract actionable insights on profitability, customer behavior, product performance, and seasonal trends. These insights will inform strategic decisions around marketing, product focus, and customer retention.
